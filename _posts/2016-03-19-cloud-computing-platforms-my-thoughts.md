@@ -4,7 +4,7 @@ post_title: 'Cloud Computing Platforms &#8211; My Thoughts'
 author: cauchyabel
 date: 2016-03-19
 ---
-### Cloud Computing Platforms: My Thoughts
+# Cloud Computing Platforms: My Thoughts
 
 In my last blogs I have discussed about how to use Microsoft Azure and Amazon Web Services to deploy your own Java web application. In this blog, we will first look into Google Cloud Platform and then I will share my thoughts on different cloud computing platforms I have used so far. 
 
