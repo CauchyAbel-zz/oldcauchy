@@ -1,12 +1,9 @@
----
-ID: 19
-post_title: Introduction to Cloud Computing
+﻿---
+title: Introduction to Cloud Computing
 author: cauchyabel
-post_date: 2016-01-29 05:12:26
+date: 2016-01-29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://cauchyabel.me/introduction-to-cloud-computing/
 published: true
 ---
 # What is Cloud Computing Cloud Computing might seem a big concept when we first get to know about it. According to the definition from National Institute of Standard and Technology of U.S Department of Commerce, Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. Cloud Computing has five essential characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity and measured service. It comes in three service models which we will discuss about later: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS). Its deployment has four models: private cloud, community cloud, public cloud and hybrid cloud [1]. 

@@ -1,3 +1,3 @@
-# cauchyabel.github.io
-CauchyAbel's blog
-Pretty much nothing
+# CauchyAbel's Blog
+CauchyAbel's blog <br>
+Pretty much nothing right now
