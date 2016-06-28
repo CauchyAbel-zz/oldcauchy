@@ -4,7 +4,10 @@ post_title: 'Cloud Computing Platforms &#8211; My Thoughts'
 author: cauchyabel
 date: 2016-03-19
 ---
+### Cloud Computing Platforms: My Thoughts
+
 In my last blogs I have discussed about how to use Microsoft Azure and Amazon Web Services to deploy your own Java web application. In this blog, we will first look into Google Cloud Platform and then I will share my thoughts on different cloud computing platforms I have used so far. 
+
 ## Google Cloud Platform - Not Even Good 
 Yes, Google Platform is not as good as other services provided by Google. Let's take Java Web Application deployment for example. To deploy an application on Google Platform, we need to create a new project for this application. Then for Java, we need to have Maven framework and Google Java SDK ready so that our application could be deployed onto the platform. The reason behind this mechanism of deployment is that the whole Google Cloud Platform is built on the Google App Engine, GAE (I assume a lot of programmers know this). The minimum managed unit on Google Cloud Platform is 'project'. In a 'project', you are able to create applications, virtual machines. Before you start, you will create a project, and based on the project, applications and virtual machines are created. If user switches to another project, then the virtual machine is not visible until the user switch back. Pros: Google offers pretty good starting offer with a credit of $300 USD, which allows a new user to do a lot of stuff at the beginning. The extension of each project is very flexible. It is a platform more friendly to project based work. Cons: Comparing with the experience to AWS or Azure, Google Cloud Platform is not as friendly as the other two. The deployment of web app is not as simple and fast. The creation of project is annoying while it is a must before you can start anything. 
 
